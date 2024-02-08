@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /public_html/index.html
+Disallow: /public_html/Fonts
+Disallow: /public_html/Images
+Disallow: /public_html/JavaScript
+Disallow: /public_html/Style
+
